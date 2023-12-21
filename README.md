@@ -491,10 +491,10 @@ synchronous parallel (BSP)* model technique as follows:
 ## SPEEDUP GRAPHS
 
 - **PIPELINE**
-  - ![](/proj2/benchmark/speedup-pipeline.png)
+  - ![](/benchmark/speedup-pipeline.png)
 
 - **BSP**
-  - ![](/proj2/benchmark/speedup-bsp.png)
+  - ![](/benchmark/speedup-bsp.png)
 
 ---
 
