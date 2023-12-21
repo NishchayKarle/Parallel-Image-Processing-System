@@ -1,5 +1,3 @@
-# Project 2 Report
-
 ## SPEEDUP GRAPHS
 
 - **PIPELINE**
@@ -71,7 +69,3 @@ The results will be generated in data.txt file inside the `benchmark` folder.
     - The BSP with 12 threads is performing the best among all three sequential, pipeline, and BSP. Although the speedup was even higher if I used the maximum possible threads, which is 128 on the Linux cluster.
 
 In both pipeline and BSP, the image is divided into chunks, and each Go routine works on one chunk
-
----
-
-### COLAB: Tina Oberoi
